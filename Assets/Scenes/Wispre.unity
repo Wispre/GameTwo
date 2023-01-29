@@ -123,6 +123,24 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &63146850 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 102251548070111580, guid: 97ab6e3042d558245b52f44284a16913, type: 3}
+  m_PrefabInstance: {fileID: 4135418022578736003}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &63146853
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63146850}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.14, y: 3.8185236, z: 5.399408}
+  m_Center: {x: 0, y: 2, z: 0}
 --- !u!1 &223792963
 GameObject:
   m_ObjectHideFlags: 0
@@ -301,6 +319,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1573145754 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 102251548070116274, guid: 97ab6e3042d558245b52f44284a16913, type: 3}
+  m_PrefabInstance: {fileID: 4135418022578736003}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1573145756
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573145754}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 216.1, y: 163.4, z: 198}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &4135418022578736003
 PrefabInstance:
   m_ObjectHideFlags: 0
